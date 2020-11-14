@@ -175,6 +175,14 @@
   white-space: nowrap;
   width: auto;
 }
+
+.landing-page-v2 .deploy-accelerator-FY3HhL a, a.visited {
+  font-family: 'Segoe UI-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+
 .landing-page-v2 .deploying--ccelerator-C61RwL {
   background-color: transparent;
   color: var(--black);
