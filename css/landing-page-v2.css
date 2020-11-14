@@ -1,0 +1,1369 @@
+/* screen - landing-page-v2 */
+
+.border-class-1 {
+  border: 1px solid transparent;
+}
+.border-class-2 {
+  border: 2px solid var(--astronaut);
+}
+.font-class-1 {
+  font-family: 'Segoe UI-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.font-class-2 {
+  font-family: 'Segoe UI-Semilight', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.landing-page-v2 {
+  background-color: var(--white);
+  
+  height: 4327px;
+  position: relative;
+  width: 1500px;
+}
+.landing-page-v2 .anylogic-s-are-logo-1-C61RwL {
+  background-color: transparent;
+  height: 83px;
+  left: 377px;
+  overflow: hidden;
+  position: absolute;
+  top: 3240px;
+  width: 191px;
+}
+.landing-page-v2 .are-the-so-or-stirred-jSXWnC {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 736px;
+}
+.landing-page-v2 .assess-and-export-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 767px;
+  position: absolute;
+  text-align: center;
+  top: 2093px;
+  width: 181px;
+}
+.landing-page-v2 .bonsai-cli-s-partners-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 50px;
+  height: auto;
+  left: 464px;
+  line-height: 57.2px;
+  position: absolute;
+  text-align: center;
+  top: 3081px;
+  white-space: nowrap;
+  width: 607px;
+}
+.landing-page-v2 .bonsai-log-rk-white-1-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 44px;
+  overflow: hidden;
+  position: absolute;
+  top: 6px;
+  width: 45px;
+}
+.landing-page-v2 .bonsai-sol--questions-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 32px;
+  height: auto;
+  left: 87px;
+  line-height: 39.8px;
+  position: absolute;
+  text-align: left;
+  top: 2452px;
+  width: 439px;
+}
+.landing-page-v2 .bonsai-sol-ccelerator-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 18px;
+  height: auto;
+  left: 93px;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+.landing-page-v2 .community-forums-1fL28K {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 237px;
+}
+.landing-page-v2 .community-forums-XUVN7C {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 237px;
+}
+.landing-page-v2 .community-forums-hVtwVJ {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 237px;
+}
+.landing-page-v2 .customize--ion-models-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 348px;
+  position: absolute;
+  text-align: center;
+  top: 2077px;
+  width: 232px;
+}
+.landing-page-v2 .customize-brain-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 566px;
+  position: absolute;
+  text-align: center;
+  top: 1862px;
+  width: 181px;
+}
+.landing-page-v2 .deploy-accelerator-FY3HhL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 18px;
+  height: auto;
+  left: 37px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .deploying--ccelerator-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 14px;
+  height: auto;
+  left: 661px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 748px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .deployment-overview-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 50px;
+  height: auto;
+  left: 329px;
+  line-height: 57.2px;
+  position: absolute;
+  text-align: center;
+  top: 1616px;
+  white-space: nowrap;
+  width: 892px;
+}
+.landing-page-v2 .ellipse-1-C61RwL {
+  background-color: transparent;
+  height: 102px;
+  left: 1182px;
+  position: absolute;
+  top: 1080px;
+  width: 102px;
+}
+.landing-page-v2 .ellipse-10-2P4qUJ {
+  background-color: transparent;
+  height: 7px;
+  left: 918px;
+  position: absolute;
+  top: 2016px;
+  width: 7px;
+}
+.landing-page-v2 .ellipse-10-C61RwL {
+  background-color: transparent;
+  height: 7px;
+  left: 326px;
+  position: absolute;
+  top: 1957px;
+  width: 7px;
+}
+.landing-page-v2 .ellipse-10-QxM5SU {
+  background-color: transparent;
+  height: 7px;
+  left: 521px;
+  position: absolute;
+  top: 2016px;
+  width: 7px;
+}
+.landing-page-v2 .ellipse-10-VMr6Om {
+  background-color: transparent;
+  height: 7px;
+  left: 723px;
+  position: absolute;
+  top: 1957px;
+  width: 7px;
+}
+.landing-page-v2 .ellipse-10-mzXdH9 {
+  background-color: transparent;
+  height: 7px;
+  left: 1118px;
+  position: absolute;
+  top: 1957px;
+  width: 7px;
+}
+.landing-page-v2 .ellipse-2-C61RwL {
+  background-color: transparent;
+  height: 102px;
+  left: 1193px;
+  position: absolute;
+  top: 1087px;
+  width: 102px;
+}
+.landing-page-v2 .ellipse-3-2P4qUJ {
+  background-color: transparent;
+  height: 203px;
+  left: 755px;
+  position: absolute;
+  top: 2007px;
+  width: 203px;
+}
+.landing-page-v2 .ellipse-3-C61RwL {
+  background-color: transparent;
+  height: 203px;
+  left: 161px;
+  position: absolute;
+  top: 1772px;
+  width: 203px;
+}
+.landing-page-v2 .ellipse-3-QxM5SU {
+  background-color: transparent;
+  height: 203px;
+  left: 358px;
+  position: absolute;
+  top: 2007px;
+  width: 203px;
+}
+.landing-page-v2 .ellipse-3-VMr6Om {
+  background-color: transparent;
+  height: 203px;
+  left: 555px;
+  position: absolute;
+  top: 1772px;
+  width: 203px;
+}
+.landing-page-v2 .ellipse-3-mzXdH9 {
+  background-color: transparent;
+  height: 203px;
+  left: 953px;
+  position: absolute;
+  top: 1772px;
+  width: 203px;
+}
+.landing-page-v2 .ellipse-3-qr8e7q {
+  background-color: transparent;
+  height: 203px;
+  left: 1150px;
+  position: absolute;
+  top: 2007px;
+  width: 203px;
+}
+.landing-page-v2 .ellipse-9-2P4qUJ {
+  background-color: transparent;
+  height: 221px;
+  left: 746px;
+  position: absolute;
+  top: 1998px;
+  width: 221px;
+}
+.landing-page-v2 .ellipse-9-C61RwL {
+  background-color: transparent;
+  height: 221px;
+  left: 152px;
+  position: absolute;
+  top: 1763px;
+  width: 221px;
+}
+.landing-page-v2 .ellipse-9-QxM5SU {
+  background-color: transparent;
+  height: 221px;
+  left: 349px;
+  position: absolute;
+  top: 1998px;
+  width: 221px;
+}
+.landing-page-v2 .ellipse-9-VMr6Om {
+  background-color: transparent;
+  height: 221px;
+  left: 546px;
+  position: absolute;
+  top: 1763px;
+  width: 221px;
+}
+.landing-page-v2 .ellipse-9-mzXdH9 {
+  background-color: transparent;
+  height: 221px;
+  left: 944px;
+  position: absolute;
+  top: 1763px;
+  width: 221px;
+}
+.landing-page-v2 .ellipse-9-qr8e7q {
+  background-color: transparent;
+  height: 221px;
+  left: 1141px;
+  position: absolute;
+  top: 1998px;
+  width: 221px;
+}
+.landing-page-v2 .energy-36258241920-1-C61RwL {
+  background-color: transparent;
+  height: 899px;
+  left: -160px;
+  position: absolute;
+  top: 11px;
+  width: 1920px;
+}
+.landing-page-v2 .faq-2P4qUJ {
+  background-color: transparent;
+  height: 30px;
+  left: 679px;
+  position: absolute;
+  top: 2739px;
+  width: 736px;
+}
+.landing-page-v2 .faq-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 679px;
+  position: absolute;
+  top: 2459px;
+  width: 736px;
+}
+.landing-page-v2 .faq-QxM5SU {
+  background-color: transparent;
+  height: 30px;
+  left: 679px;
+  position: absolute;
+  top: 2668px;
+  width: 736px;
+}
+.landing-page-v2 .faq-VMr6Om {
+  background-color: transparent;
+  height: 30px;
+  left: 679px;
+  position: absolute;
+  top: 2530px;
+  width: 736px;
+}
+.landing-page-v2 .faq-mzXdH9 {
+  background-color: transparent;
+  height: 30px;
+  left: 679px;
+  position: absolute;
+  top: 2599px;
+  width: 736px;
+}
+.landing-page-v2 .faqs-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 14px;
+  height: auto;
+  left: 1076px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 748px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .fill-140-C61RwL {
+  background-color: transparent;
+  height: 107px;
+  left: 490px;
+  position: absolute;
+  top: 3837px;
+  width: 130px;
+}
+.landing-page-v2 .frame-3-C61RwL {
+  background-color: rgba(0,0,0,0.1);
+  border: 2px solid var(--white);
+  border-radius: 60px;
+  height: 52px;
+  left: 659px;
+  position: absolute;
+  top: 304px;
+  width: 229px;
+}
+.landing-page-v2 .frame-C61RwL {
+  background-color: transparent;
+  background-image: url(../img/group-1@2x.png);
+  background-size: 100% 100%;
+  height: 56px;
+  left: 1150px;
+  overflow: hidden;
+  position: absolute;
+  top: 3271px;
+  width: 157px;
+}
+.landing-page-v2 .get-predictions-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 965px;
+  position: absolute;
+  text-align: center;
+  top: 1863px;
+  width: 181px;
+}
+.landing-page-v2 .getting-started-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 18px;
+  height: auto;
+  left: 361px;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: auto;
+}
+.landing-page-v2 .got-questi-u-dream-of-1fL28K {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 17px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 262px;
+}
+.landing-page-v2 .got-questi-u-dream-of-XUVN7C {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 17px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 262px;
+}
+.landing-page-v2 .got-questi-u-dream-of-hVtwVJ {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 17px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 48px;
+  width: 262px;
+}
+.landing-page-v2 .group-yRwlMo {
+  background-color: transparent;
+  height: 29px;
+  left: 7px;
+  position: absolute;
+  top: 11px;
+  width: 30px;
+}
+.landing-page-v2 .have-quest-ou-covered-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 32px;
+  height: auto;
+  left: 387px;
+  line-height: 39.8px;
+  position: absolute;
+  text-align: center;
+  top: 3602px;
+  width: 771px;
+}
+.landing-page-v2 .help-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 14px;
+  height: auto;
+  left: 1182px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 748px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .help-section-C61RwL {
+  background-color: transparent;
+  height: 155px;
+  left: 80px;
+  position: absolute;
+  top: 4005px;
+  width: 262px;
+}
+.landing-page-v2 .help-section-VMr6Om {
+  background-color: transparent;
+  height: 155px;
+  left: 424px;
+  position: absolute;
+  top: 4004px;
+  width: 262px;
+}
+.landing-page-v2 .help-section-mzXdH9 {
+  background-color: transparent;
+  height: 155px;
+  left: 789px;
+  position: absolute;
+  top: 4003px;
+  width: 262px;
+}
+.landing-page-v2 .how-much-d-ccelerator-6JqEfu {
+  background-color: transparent;
+  color: var(--tundora);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 736px;
+}
+.landing-page-v2 .how-much-d-ccelerator-PNkGae {
+  background-color: transparent;
+  color: var(--tundora);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 736px;
+}
+.landing-page-v2 .how-much-d-ccelerator-lGzSPD {
+  background-color: transparent;
+  color: var(--tundora);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 736px;
+}
+.landing-page-v2 .how-much-d-ccelerator-vgP9vF {
+  background-color: transparent;
+  color: var(--tundora);
+  font-size: 24px;
+  height: auto;
+  left: 0px;
+  line-height: 29.8px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 736px;
+}
+.landing-page-v2 .integrate--rol-system-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 1162px;
+  position: absolute;
+  text-align: center;
+  top: 2078px;
+  width: 181px;
+}
+.landing-page-v2 .line-1-2P4qUJ {
+  background-color: transparent;
+  height: 64px;
+  left: 922px;
+  position: absolute;
+  top: 1957px;
+  width: 64px;
+}
+.landing-page-v2 .line-1-C61RwL {
+  background-color: transparent;
+  height: 64px;
+  left: 328px;
+  position: absolute;
+  top: 1961px;
+  width: 64px;
+}
+.landing-page-v2 .line-1-QxM5SU {
+  background-color: transparent;
+  height: 64px;
+  left: 525px;
+  position: absolute;
+  top: 1957px;
+  width: 64px;
+}
+.landing-page-v2 .line-1-VMr6Om {
+  background-color: transparent;
+  height: 64px;
+  left: 725px;
+  position: absolute;
+  top: 1961px;
+  width: 64px;
+}
+.landing-page-v2 .line-1-mzXdH9 {
+  background-color: transparent;
+  height: 64px;
+  left: 1120px;
+  position: absolute;
+  top: 1961px;
+  width: 64px;
+}
+.landing-page-v2 .line-10-C61RwL {
+  background-color: transparent;
+  height: 381px;
+  left: 741px;
+  position: absolute;
+  top: 3798px;
+  width: 2px;
+}
+.landing-page-v2 .line-2-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 58px;
+  position: absolute;
+  top: 2980px;
+  width: 1375px;
+}
+.landing-page-v2 .line-3-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 676px;
+  position: absolute;
+  top: 2514px;
+  width: 746px;
+}
+.landing-page-v2 .line-4-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 676px;
+  position: absolute;
+  top: 2580px;
+  width: 746px;
+}
+.landing-page-v2 .line-5-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 676px;
+  position: absolute;
+  top: 2650px;
+  width: 746px;
+}
+.landing-page-v2 .line-6-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 676px;
+  position: absolute;
+  top: 2720px;
+  width: 746px;
+}
+.landing-page-v2 .line-7-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 58px;
+  position: absolute;
+  top: 3485px;
+  width: 1375px;
+}
+.landing-page-v2 .line-9-C61RwL {
+  background-color: transparent;
+  height: 381px;
+  left: 379px;
+  position: absolute;
+  top: 3798px;
+  width: 2px;
+}
+.landing-page-v2 .logo-bayer-1-C61RwL {
+  background-color: transparent;
+  height: 123px;
+  left: 641px;
+  overflow: hidden;
+  position: absolute;
+  top: 3237px;
+  width: 123px;
+}
+.landing-page-v2 .mask-group-C61RwL {
+  background-color: transparent;
+  height: 702px;
+  left: 0px;
+  position: absolute;
+  top: 56px;
+  width: 1500px;
+}
+.landing-page-v2 .mask-group-VMr6Om {
+  background-color: transparent;
+  height: 480px;
+  left: 0px;
+  position: absolute;
+  top: 1023px;
+  width: 529px;
+}
+.landing-page-v2 .mask-group-mzXdH9 {
+  background-color: transparent;
+  height: 844px;
+  left: 0px;
+  position: absolute;
+  top: 1503px;
+  width: 1500px;
+}
+.landing-page-v2 .microsoft--us-systems-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 18px;
+  height: auto;
+  left: 1197px;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+  width: auto;
+}
+.landing-page-v2 .our-clients-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 14px;
+  height: auto;
+  left: 936px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 748px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .path2-3DZtYo {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.landing-page-v2 .path4-3DZtYo {
+  background-color: transparent;
+  height: 74px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  width: 75px;
+}
+.landing-page-v2 .path6-3DZtYo {
+  background-color: transparent;
+  height: 114px;
+  left: 11px;
+  position: absolute;
+  top: 25px;
+  width: 86px;
+}
+.landing-page-v2 .pepsilogo2014-1-C61RwL {
+  background-color: transparent;
+  height: 139px;
+  left: 184px;
+  overflow: hidden;
+  position: absolute;
+  top: 3233px;
+  width: 101px;
+}
+.landing-page-v2 .privacy-and-cookies-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 18px;
+  height: auto;
+  left: 907px;
+  position: absolute;
+  text-align: left;
+  top: 4274px;
+  width: auto;
+}
+.landing-page-v2 .quickly-tr-ined-model-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 25px;
+  height: auto;
+  left: 513px;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 227px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .rectangle-1-C61RwL {
+  background-color: rgba(73,110,188,1.0);
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+.landing-page-v2 .rectangle-10-C61RwL {
+  background-color: rgba(86,122,200,1.0);
+  height: 90px;
+  left: 770px;
+  position: absolute;
+  top: 1099px;
+  transform: rotate(45deg);
+  width: 90px;
+}
+.landing-page-v2 .rectangle-10-VMr6Om {
+  background-color: rgba(138,107,153,1.0);
+  height: 90px;
+  left: 169px;
+  position: absolute;
+  top: 3856px;
+  transform: rotate(45deg);
+  width: 90px;
+}
+.landing-page-v2 .rectangle-11-C61RwL {
+  background-color: transparent;
+  height: 90px;
+  left: 756px;
+  position: absolute;
+  top: 1099px;
+  transform: rotate(45deg);
+  width: 90px;
+}
+.landing-page-v2 .rectangle-11-VMr6Om {
+  background-color: transparent;
+  height: 90px;
+  left: 155px;
+  position: absolute;
+  top: 3856px;
+  transform: rotate(45deg);
+  width: 90px;
+}
+.landing-page-v2 .rectangle-13-C61RwL {
+  background-color: rgba(0,0,0,0.2);
+  height: 845px;
+  left: 0px;
+  position: absolute;
+  top: 1502px;
+  width: 1500px;
+}
+.landing-page-v2 .rectangle-14-C61RwL {
+  /* background-color: var(--white); */
+  background-color: var(--white);
+  height: 1141px;
+  left: 0px;
+  position: absolute;
+  top: 2345px;
+  width: 1500px;
+}
+.landing-page-v2 .rectangle-15-C61RwL {
+  /* background-color: transparent; */
+  background-color: var(--white);
+  height: 821px;
+  left: 0px;
+  position: absolute;
+  top: 3426px;
+  width: 1500px;
+}
+
+.landing-page-v2 .rectangle-16-C61RwL {
+  background-color: transparent;
+  height: 443px;
+  left: 1074px;
+  position: absolute;
+  top: 3804px;
+  width: 427px;
+}
+.landing-page-v2 .rectangle-17-C61RwL {
+  background-color: rgba(181,216,123,1.0);
+  height: 68px;
+  left: 833px;
+  position: absolute;
+  top: 3837px;
+  width: 174px;
+}
+.landing-page-v2 .rectangle-18-C61RwL {
+  background-color: transparent;
+  height: 68px;
+  left: 824px;
+  position: absolute;
+  top: 3847px;
+  width: 174px;
+}
+.landing-page-v2 .rectangle-19-C61RwL {
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  position: absolute;
+  top: 60px;
+  width: 1500px;
+}
+.landing-page-v2 .rectangle-21-C61RwL {
+  background-color: rgba(235,237,239,1.0);
+  height: 80px;
+  left: 0px;
+  position: absolute;
+  top: 4247px;
+  width: 1500px;
+}
+.landing-page-v2 .rectangle-4-C61RwL {
+  background-color: rgba(238,242,245,1.0);
+  height: 55px;
+  left: 288px;
+  position: absolute;
+  top: 729px;
+  width: 983px;
+}
+.landing-page-v2 .rectangle-5-C61RwL {
+  background-color: var(--white);
+  height: 745px;
+  left: 0px;
+  position: absolute;
+  top: 758px;
+  width: 1500px;
+}
+.landing-page-v2 .rectangle-7-C61RwL {
+  background-color: transparent;
+  height: 418px;
+  left: -0px;
+  position: absolute;
+  top: 1086px;
+  width: 558px;
+}
+.landing-page-v2 .robot-dude-2-C61RwL {
+  background-color: transparent;
+  height: 449px;
+  left: 1094px;
+  position: absolute;
+  top: 3798px;
+  width: 406px;
+}
+.landing-page-v2 .setup-azur--workspace-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 20px;
+  height: auto;
+  left: 173px;
+  position: absolute;
+  text-align: center;
+  top: 1843px;
+  width: 181px;
+}
+.landing-page-v2 .solution-a--necessary-C61RwL {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 17px;
+  height: auto;
+  left: 664px;
+  position: absolute;
+  text-align: left;
+  top: 1243px;
+  width: 346px;
+}
+.landing-page-v2 .solution-a--necessary-VMr6Om {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 17px;
+  height: auto;
+  left: 1076px;
+  position: absolute;
+  text-align: left;
+  top: 1243px;
+  width: 346px;
+}
+.landing-page-v2 .solution-a--necessary-mzXdH9 {
+  background-color: transparent;
+  color: var(--gravel);
+  font-size: 17px;
+  height: auto;
+  left: 676px;
+  position: absolute;
+  text-align: left;
+  top: 2788px;
+  width: 583px;
+}
+.landing-page-v2 .solution-a--scenarios-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 32px;
+  height: auto;
+  left: 272px;
+  line-height: 39.8px;
+  position: absolute;
+  text-align: center;
+  top: 870px;
+  width: 990px;
+}
+.landing-page-v2 .stroke-141-C61RwL {
+  background-color: transparent;
+  height: 110px;
+  left: 479px;
+  position: absolute;
+  top: 3845px;
+  width: 134px;
+}
+.landing-page-v2 .terms-of-use-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 18px;
+  height: auto;
+  left: 1089px;
+  position: absolute;
+  text-align: left;
+  top: 4274px;
+  width: auto;
+}
+.landing-page-v2 .trademarks-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 18px;
+  height: auto;
+  left: 1215px;
+  position: absolute;
+  text-align: left;
+  top: 4274px;
+  width: auto;
+}
+.landing-page-v2 .vector-0zOYsa {
+  background-color: transparent;
+  height: 116px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 124px;
+}
+.landing-page-v2 .vector-1-2P4qUJ {
+  background-color: transparent;
+  height: 8px;
+  left: 975px;
+  position: absolute;
+  top: 1958px;
+  width: 8px;
+}
+.landing-page-v2 .vector-1-C61RwL {
+  background-color: transparent;
+  height: 8px;
+  left: 382px;
+  position: absolute;
+  top: 2014px;
+  width: 8px;
+}
+.landing-page-v2 .vector-1-QxM5SU {
+  background-color: transparent;
+  height: 8px;
+  left: 578px;
+  position: absolute;
+  top: 1958px;
+  width: 8px;
+}
+.landing-page-v2 .vector-1-VMr6Om {
+  background-color: transparent;
+  height: 8px;
+  left: 780px;
+  position: absolute;
+  top: 2014px;
+  width: 8px;
+}
+.landing-page-v2 .vector-1-mzXdH9 {
+  background-color: transparent;
+  height: 8px;
+  left: 1174px;
+  position: absolute;
+  top: 2014px;
+  width: 8px;
+}
+.landing-page-v2 .vector-2-6JqEfu {
+  background-color: transparent;
+  height: 16px;
+  left: 708px;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+.landing-page-v2 .vector-2-PNkGae {
+  background-color: transparent;
+  height: 16px;
+  left: 708px;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+.landing-page-v2 .vector-2-jSXWnC {
+  background-color: transparent;
+  height: 16px;
+  left: 708px;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+.landing-page-v2 .vector-2-lGzSPD {
+  background-color: transparent;
+  height: 16px;
+  left: 708px;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+.landing-page-v2 .vector-2-vgP9vF {
+  background-color: transparent;
+  height: 16px;
+  left: 708px;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+.landing-page-v2 .vector-2P4qUJ {
+  background-color: transparent;
+  height: 26px;
+  left: 910px;
+  position: absolute;
+  top: 3282px;
+  width: 13px;
+}
+.landing-page-v2 .vector-46fvPD {
+  background-color: transparent;
+  height: 116px;
+  left: -0px;
+  position: absolute;
+  top: 8px;
+  width: 124px;
+}
+.landing-page-v2 .vector-8RItMe {
+  background-color: transparent;
+  height: 62px;
+  left: -0px;
+  position: absolute;
+  top: 21px;
+  width: 72px;
+}
+.landing-page-v2 .vector-C61RwL {
+  background-color: transparent;
+  height: 10px;
+  left: 1052px;
+  position: absolute;
+  top: 3288px;
+  width: 10px;
+}
+.landing-page-v2 .vector-DRcjLr {
+  background-color: transparent;
+  height: 7px;
+  left: 183px;
+  position: absolute;
+  top: 33px;
+  width: 7px;
+}
+.landing-page-v2 .vector-HlKRTo {
+  background-color: transparent;
+  height: 20px;
+  left: 999px;
+  position: absolute;
+  top: 3287px;
+  width: 14px;
+}
+.landing-page-v2 .vector-HurLPQ {
+  background-color: transparent;
+  height: 100px;
+  left: 13px;
+  position: absolute;
+  top: 11px;
+  width: 100px;
+}
+.landing-page-v2 .vector-J1YQmd {
+  background-color: transparent;
+  height: 30px;
+  left: 940px;
+  position: absolute;
+  top: 3279px;
+  width: 42px;
+}
+.landing-page-v2 .vector-L5vNFG {
+  background-color: transparent;
+  height: 18px;
+  left: 10px;
+  position: absolute;
+  top: 51px;
+  width: 60px;
+}
+.landing-page-v2 .vector-QxM5SU {
+  background-color: transparent;
+  height: 21px;
+  left: 892px;
+  position: absolute;
+  top: 3287px;
+  width: 18px;
+}
+.landing-page-v2 .vector-VMr6Om {
+  background-color: transparent;
+  height: 6px;
+  left: 1055px;
+  position: absolute;
+  top: 3290px;
+  width: 4px;
+}
+.landing-page-v2 .vector-VkPPtx {
+  background-color: transparent;
+  height: 32px;
+  left: 1013px;
+  position: absolute;
+  top: 3276px;
+  width: 22px;
+}
+.landing-page-v2 .vector-YWzA7M {
+  background-color: transparent;
+  height: 21px;
+  left: 1036px;
+  position: absolute;
+  top: 3288px;
+  width: 13px;
+}
+.landing-page-v2 .vector-a5WPlX {
+  background-color: transparent;
+  height: 21px;
+  left: 977px;
+  position: absolute;
+  top: 3287px;
+  width: 20px;
+}
+.landing-page-v2 .vector-mzXdH9 {
+  background-color: transparent;
+  height: 30px;
+  left: 853px;
+  position: absolute;
+  top: 3278px;
+  width: 38px;
+}
+.landing-page-v2 .vector-qr8e7q {
+  background-color: transparent;
+  height: 32px;
+  left: 924px;
+  position: absolute;
+  top: 3276px;
+  width: 22px;
+}
+.landing-page-v2 .vector-yCLtey {
+  background-color: transparent;
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 27px;
+  width: 126px;
+}
+.landing-page-v2 .visit-our-forums-1fL28K {
+  background-color: transparent;
+  color: var(--picton-blue);
+  font-size: 17px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: 262px;
+}
+.landing-page-v2 .visit-our-forums-XUVN7C {
+  background-color: transparent;
+  color: var(--picton-blue);
+  font-size: 17px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: 262px;
+}
+.landing-page-v2 .visit-our-forums-hVtwVJ {
+  background-color: transparent;
+  color: var(--picton-blue);
+  font-size: 17px;
+  height: auto;
+  left: 0px;
+  position: absolute;
+  text-align: left;
+  top: 135px;
+  width: 262px;
+}
+.landing-page-v2 .welcome-to-celerators-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-size: 50px;
+  height: auto;
+  left: 329px;
+  line-height: 57.2px;
+  position: absolute;
+  text-align: center;
+  top: 157px;
+  white-space: nowrap;
+  width: 892px;
+}
+.landing-page-v2 .what-are-b-celerators-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 14px;
+  height: auto;
+  left: 348px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 748px;
+  white-space: nowrap;
+  width: auto;
+}
+.landing-page-v2 .x-microsoft-2020-C61RwL {
+  background-color: transparent;
+  color: var(--astronaut);
+  font-size: 18px;
+  height: auto;
+  left: 1332px;
+  position: absolute;
+  text-align: left;
+  top: 4274px;
+  width: auto;
+}
+:root {
+  --astronaut: rgba(37,61,116,1.0);
+  --black: rgba(0,0,0,1.0);
+  --gravel: rgba(75,75,75,1.0);
+  --picton-blue: rgba(80,179,234,1.0);
+  --tundora: rgba(68,68,68,1.0);
+  --white: rgba(255,255,255,1.0);
+}
