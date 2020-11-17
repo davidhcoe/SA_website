@@ -774,6 +774,12 @@
   top: 19px;
   width: auto;
 }
+
+.whiteLink {
+  color: var(--white);
+  text-decoration: none;
+}
+
 .landing-page-v2 .our-clients-C61RwL {
   background-color: transparent;
   color: var(--black);
@@ -831,6 +837,12 @@
   top: 4274px;
   width: auto;
 }
+
+.astronautLink {
+  color: var(--astronaut);
+  text-decoration: none;
+}
+
 .landing-page-v2 .quickly-tr-ined-model-C61RwL {
   background-color: transparent;
   color: var(--white);
@@ -1062,6 +1074,8 @@
   top: 4274px;
   width: auto;
 }
+
+
 .landing-page-v2 .trademarks-C61RwL {
   background-color: transparent;
   color: var(--astronaut);
@@ -1073,6 +1087,8 @@
   top: 4274px;
   width: auto;
 }
+
+
 .landing-page-v2 .vector-0zOYsa {
   background-color: transparent;
   height: 116px;
@@ -1330,6 +1346,13 @@
   top: 135px;
   width: 262px;
 }
+
+.blueLink {
+  color: var(--picton-blue);
+ text-decoration: none;
+}
+
+
 .landing-page-v2 .welcome-to-celerators-C61RwL {
   background-color: transparent;
   color: var(--white);
@@ -1356,6 +1379,12 @@
   white-space: nowrap;
   width: auto;
 }
+
+.blackLink {
+  color: var(--black);
+  text-decoration: none;
+}
+
 .landing-page-v2 .x-microsoft-2020-C61RwL {
   background-color: transparent;
   color: var(--astronaut);
